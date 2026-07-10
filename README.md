@@ -37,6 +37,7 @@ This portfolio is focused on projects that show my ability to work with:
 | [AI Agent for Othello](https://github.com/barbora-besedova/AI_Agent_for_Othello) | Artificial Intelligence | in progress |
 | [Variant Database Comparison Tool](https://github.com/barbora-besedova/Variant_Database_Comparison_Tool) | Bioinformatics / Genomic Data | 04/2026 | 
 | [Low-Level MCU Programming](https://github.com/barbora-besedova/Low-Level_MCU_Programming) | Embedded Systems | 04/2026 |
+| [Statistical Machine Learning](https://github.com/barbora-besedova/Statistical_Machine_Learning) | Machine Learning | 12/2025 |
 | [Data Analysis of Adherence with Schizophrenia Patient](https://github.com/barbora-besedova/Data_Analysis_of_Adherence_in_Patients_with_Schizophrenia) | Data Analysis | 05/2025 |
 
 ---
@@ -119,7 +120,7 @@ The repository contains basic low-level MCU programming exercises and examples. 
 ---
 ## 4 · Statistical Machine Learning
 
-**Repository:** https://github.com/barbora-besedova/Statistical_Machine_Learning
+[Repository](https://github.com/barbora-besedova/Statistical_Machine_Learning)
 
 **Area:** Machine learning, statistical modelling
 **Period:** 12/2025
