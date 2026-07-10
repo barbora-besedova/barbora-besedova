@@ -117,8 +117,34 @@ The repository contains basic low-level MCU programming exercises and examples. 
 `C` · `embedded systems` · `microcontrollers` · `low-level programming` · `hardware-oriented thinking`
 
 ---
+## 4 · Statistical Machine Learning
 
-## 4 · Bachelor Thesis: Data Analysis of Adherence with Schizophrenia Patients 
+**Repository:** https://github.com/barbora-besedova/Statistical_Machine_Learning
+
+**Area:** Machine learning, statistical modelling
+**Period:** 12/2025
+**Role:** Student
+
+### Challenge
+
+The goal of these assigments was to explore and implement core statistical machine learning techniques, focusing on model development, evaluation and comparison using real-world datasets.
+
+### Approach
+
+The project involved data preprocessing, exploratory data analysis, feature engineering and the implementation of multiple machine learning algorithms. Different models were trained, evaluated and compared using appropriate statistical metrics and validation techniques.
+
+### Solution
+
+The project demonstrates practical experience with the complete machine learning workflow, from data preparation to model evaluation and interpretation. It strengthened my understanding of statistical learning methods, predictive modelling and Python-based data analysis.
+
+### Skills demonstrated
+
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `data preprocessing` · `exploratory data analysis` · `machine learning` · `classification` · `regression` · `model evaluation` · `cross-validation`
+
+---
+
+
+## 5 · Bachelor Thesis: Data Analysis of Adherence with Schizophrenia Patients 
 [Repository](https://github.com/barbora-besedova/Data_Analysis_of_Adherence_in_Patients_with_Schizophrenia)
 
 **Area:** Healthcare data analysis, digital health  
